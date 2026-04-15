@@ -22,8 +22,6 @@ hyg_v42.csv
 data/hyg_v42.csv
 ```
 
-Do not commit the downloaded CSV to the repository. It is source data from an
-external project and should remain a local build input.
 
 ## Files
 
