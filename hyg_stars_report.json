@@ -1,0 +1,37 @@
+{
+  "source_rows": 119626,
+  "component_groups": 119190,
+  "generated_systems": 119180,
+  "merged_exact_position_groups": 10,
+  "renamed_duplicate_primaries": 77,
+  "dropped_duplicate_aliases": 111,
+  "truncated_star_components": 0,
+  "primary_name_duplicates": 0,
+  "exact_position_duplicates": 0,
+  "contains_sol": true,
+  "max_stars_per_system": 3,
+  "legacy_summary": {
+    "systems": 119190,
+    "primary_name_duplicates": 72,
+    "exact_position_duplicates": 10,
+    "contains_sol": true,
+    "max_stars_per_system": 3,
+    "star_count_distribution": {
+      "1": 118788,
+      "2": 368,
+      "3": 34
+    }
+  },
+  "new_summary": {
+    "systems": 119180,
+    "primary_name_duplicates": 0,
+    "exact_position_duplicates": 0,
+    "contains_sol": true,
+    "max_stars_per_system": 3,
+    "star_count_distribution": {
+      "1": 118768,
+      "2": 378,
+      "3": 34
+    }
+  }
+}

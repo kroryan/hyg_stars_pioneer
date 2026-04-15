@@ -1,0 +1,5 @@
+/data/
+/hyg_v42*.csv
+/hyg_stars_legacy_before_regen.json
+__pycache__/
+*.tmp
